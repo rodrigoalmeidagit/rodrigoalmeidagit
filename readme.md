@@ -2,7 +2,7 @@
 
 ### About me
 
-- <strong>Frontend Developer</strong> self-taugth from Brazil.
+- Self-taught <strong>Frontend Developer</strong> from Brazil.
 - Always looking forward to learn more about javascript, css, nodejs, reactjs, tests, etc
 
 ### Skills
