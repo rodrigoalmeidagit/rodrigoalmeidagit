@@ -22,6 +22,11 @@
 ![Shell](https://img.shields.io/badge/-Shell-39404b?style=flat&logo=shell)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-39404b?style=flat&logo=mongodb)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-39404b?style=flat&logo=typescript)
+![SASS](https://img.shields.io/badge/-SASS-39404b?style=flat&logo=sass)
+
+
+
 ### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-39404b?style=flat&logo=visual-studio-code&logoColor=007acc)
