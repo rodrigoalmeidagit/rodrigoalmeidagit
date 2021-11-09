@@ -11,6 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-39404b?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-linux-39404b?style=flat&logo=linux)
 
 ### Studying
 
