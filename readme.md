@@ -11,18 +11,21 @@
 ![CSS](https://img.shields.io/badge/-CSS-39404b?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-linux-39404b?style=flat&logo=linux)
 
 ### Studying
 
 ![React](https://img.shields.io/badge/-React-39404b?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-39404b?style=flat&logo=next.js)
+![Shell](https://img.shields.io/badge/-shell-39404b?style=flat&logo=shell)
+![MongoDB](https://img.shields.io/badge/-mongodb-39404b?style=flat&logo=mongodb)
 
 ### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-39404b?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-39404b?style=flat&logo=github)
+
+![Linux](https://img.shields.io/badge/-linux-39404b?style=flat&logo=linux)
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-39404b?style=flat&logo=insomnia)
 ![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=7de68a)
