@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo!
 
-### About me
+### About me,
 
 - Self-taught <strong>Frontend Developer</strong> from Brazil.
 - Always looking forward to learn more about javascript, css, nodejs, reactjs, tests, etc
@@ -36,6 +36,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-39404b?style=flat&logo=linux)
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-39404b?style=flat&logo=insomnia)
+
+![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=7de68a)
 
 ![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=7de68a)
 
